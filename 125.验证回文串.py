@@ -14,6 +14,7 @@ class Solution:
         # print(len(onlycharnumS))
         # n < len(s)/2, s[n] = s[len(s) - n + 1] , 
         # if <>, return False, else return True
+        
         # for i in range(0,len(onlycharnumS)//2):
         #     if onlycharnumS[i] != onlycharnumS[len(onlycharnumS) - i - 1]:
         #         return False
@@ -21,5 +22,5 @@ class Solution:
 
 
         # 
-        # # @lc code=end
 
+        # # @lc code=end
